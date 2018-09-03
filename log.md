@@ -21,8 +21,8 @@
 --->
 
 ### Day 1: September 3, 2018 - Monday
-
-**Today's Progress**: Introduction to HTML (Web Developer Bootcamp on Udemy)
+**Time Spent**: 2 hrs 45 mins
+**Today's Progress**: Introduction to HTML (Web Developer Bootcamp on Udemy) - made a simple webpage declaring Lebron James as the GOAT with hyperlinks, images, etc.
 
 **Thoughts**: I find it appropriate going back to the very basics to start off my 100 day coding challenge. Colt Steele's course, so far, has been amazing, because he goes beyond the coding process and explains the rationale behind some concepts like "semantic markup." Though, I personally have to focus more and eliminate distractions while doing this daily challenge. I have to make that 1 hr+ time sacred!
 
