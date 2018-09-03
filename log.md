@@ -22,9 +22,10 @@
 
 ### Day 1: September 3, 2018 - Monday
 
-**Today's Progress**: 
+**Today's Progress**: Introduction to HTML (Web Developer Bootcamp on Udemy)
 
-**Thoughts** 
+**Thoughts**: I find it appropriate going back to the very basics to start off my 100 day coding challenge. Colt Steele's course, so far, has been amazing, because he goes beyond the coding process and explains the rationale behind some concepts like "semantic markup." Though, I personally have to focus more and eliminate distractions while doing this daily challenge. I have to make that 1 hr+ time sacred!
 
-**Link(s) to work**
-1. 
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/5Ry913
