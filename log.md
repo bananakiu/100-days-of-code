@@ -29,3 +29,13 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/5Ry913
+
+### Day 2: September 4, 2018 - Monday
+**Time Spent**: 1 hrs 05 mins
+**Today's Progress**: 1/2 of Intermediate HTML (Web Developer Bootcamp on Udemy) - played with HTML tables, forms, and validations.
+
+**Thoughts**: Pretty cool and simple stuff so far! Can't wait to really dive into the back-end a few weeks from now and really capitalize on input validation, forms, and logins and stuff. Really can't wait to be able to make my own website! Maybe I can make some simple website for my family to track random shiz! Could be a fun little project.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/2KvKnP
