@@ -30,7 +30,7 @@
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/5Ry913
 
-### Day 2: September 4, 2018 - Monday
+### Day 2: September 4, 2018 - Tuesday
 **Time Spent**: 1 hrs 05 mins
 **Today's Progress**: 1/2 of Intermediate HTML (Web Developer Bootcamp on Udemy) - played with HTML tables, forms, and validations.
 
@@ -39,3 +39,13 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/2KvKnP
+
+### Day 3: September 5, 2018 - Wednesday
+**Time Spent**: 1 hrs 00 mins
+**Today's Progress**: Finished Intermediate HTML (Web Developer Bootcamp on Udemy) - did Colt Steele's quiz for this unit; started with CSS Basics (high-level overview stuff)
+
+**Thoughts**: It took me like 30+ mins to finish the quiz.. a lot longer than I expected. I guess I might have to really put in more time if I want to progress faster. But hey, I love the 3-day consistency I've been having lately. Really excited to dive into CSS now! Time to make these pages look alive!
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/5e4Qb9
