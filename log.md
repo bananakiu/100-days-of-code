@@ -49,3 +49,12 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/5e4Qb9
+
+### Day 4: September 6, 2018 - Thursday
+**Time Spent**: 1 hrs 05 mins
+**Today's Progress**: Introduction to CSS (Web Developer Bootcamp on Udemy) - learned about linking CSS files, about using ID, class, and element selectors.
+**Thoughts**: Ugly AF page, but I'm finally starting my CSS studies! Really excited to study DESIGN as well.. color palettes, color theory, UX design principles, etc.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/5Xv7DK
