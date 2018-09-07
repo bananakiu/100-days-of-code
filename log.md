@@ -63,3 +63,14 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/5Xv7DK
+
+### Day 5: September 7, 2018 - Friday
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Introduction to CSS (Web Developer Bootcamp on Udemy) - learned about more types of selectors (adjacent, nth-of-type, etc.), learned about inheritance and specificty in CSS
+
+**Thoughts**: Wow, with these additional selectors and the concept of specifity, I can see CSS being a level more difficult already. I hope that the spaced out learning I have (basically this challenge) will help me absorb all the concepts and good practices well.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/2pYpoV
