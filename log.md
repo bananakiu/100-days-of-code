@@ -67,7 +67,8 @@
 ### Day 5: September 7, 2018 - Friday
 **Time Spent**: 1 hrs 00 mins
 
-**Today's Progress**: Introduction to CSS (Web Developer Bootcamp on Udemy) - learned about more types of selectors (adjacent, nth-of-type, etc.), learned about inheritance and specificty in CSS
+**Today's Progress**: Introduction to CSS (Web Developer Bootcamp on Udemy). Very simple pages, but difficult underlying concepts. Learned about more intricate CSS selectors  (adjacent, nth-of-type, etc.) and the concept of CSS inheritance and specificity. About to do the the unit test to end the unit! Excited to really apply what I've learned and really absorb all of this.
+
 
 **Thoughts**: Wow, with these additional selectors and the concept of specifity, I can see CSS being a level more difficult already. I hope that the spaced out learning I have (basically this challenge) will help me absorb all the concepts and good practices well.
 
