@@ -75,3 +75,16 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/2pYpoV
+
+### Day 6: September 8, 2018 - Saturday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Introduction to CSS (Web Developer Bootcamp on Udemy). Spent all my time today finishing the final assessment for Introduction to CSS. Synthesised my knowledge and understanding of various selectors and attributes so far and learned about pseudo-classes and pseudo-elements.
+
+**Thoughts**: I feel like I have a much better handle on selectors now that I finished that quiz with ease. Really excited to get into the harder CSS stuff and to finally start making real, beautiful CSS pages/projects.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/21NJY1
+
