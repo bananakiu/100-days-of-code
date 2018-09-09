@@ -78,7 +78,7 @@
 
 ### Day 6: September 8, 2018 - Saturday
 
-**Time Spent**: 1 hrs 00 mins
+**Time Spent**: 1 hrs 10 mins
 
 **Today's Progress**: Introduction to CSS (Web Developer Bootcamp on Udemy). Spent all my time today finishing the final assessment for Introduction to CSS. Synthesised my knowledge and understanding of various selectors and attributes so far and learned about pseudo-classes and pseudo-elements.
 
@@ -88,3 +88,14 @@
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/21NJY1
 
+### Day 7: September 9, 2018 - Sunday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Started the unit on Intermediate CSS. I learned a lot about fonts and the famous box model. Learning about these will really definitely expand what I can do with Web Development. Also worked with Google Fonts, which excited me, because you know.. Google!
+
+**Thoughts**: I was fairly simple today, though I can see myself needing to check out MDN more often for all the attributes related to fonts and box-model related stuff.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/243z9b
