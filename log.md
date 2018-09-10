@@ -99,3 +99,15 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/243z9b
+
+### Day 8: September 10, 2018 - Monday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Made a Tic Tac Toe board with just HTML and CSS. Also started on an instagram-like photo blog website, which I'll finish tomorrow! Learned about how you can apply filters to images (e.g. grayscale) on CSS! AMAZING.
+
+**Thoughts**: Extremely excited for tomorrow's code session, because I'll finally be able to work on a legitimate-looking website. It was quite fun doing the tic tac toe board challenge as well, finally personalizing it, instead of just trying to copy exactly how it looks from the Udemy course. Lots of fun today! I'm hyped up. On a personal note though, I have to stop oversleeping, so that I can code for longer periods of time, instead of having to stop in order to get to my day job on time.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/allXvZ
