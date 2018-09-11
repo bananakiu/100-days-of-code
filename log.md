@@ -111,3 +111,15 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/allXvZ
+
+### Day 9: September 11, 2018 - Tuesday
+
+**Time Spent**: 1 hrs 10 mins
+
+**Today's Progress**: With the help of Colt Steel's Intermediate CSS unit, I'm finally building my own photogrid/ig website. Didn’t finish though, cuz I’m having trouble cropping photos with just CSS! Might take 1 more day to finish this project. I learned about how the float attribute worked in css. I also had some practice with how to apply box model ideas (margin, border, padding).
+
+**Thoughts**: This is pretty tough. The code-along in the online course is pretty easy, but my version of the challenge is a little bit harder. I added non-square pictures of my own (from my Instagram feed actually) in order to have a more "customized" website. Because of this, I'm really learning more (styling and modifying images) with CSS, but also having a much harder time. I might check out an Instagram profile's CSS source code for ideas if it isn't too verbose.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/GA0Zx8
