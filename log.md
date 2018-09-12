@@ -123,3 +123,15 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/GA0Zx8
+
+### Day 10: September 12, 2018 - Wednesday
+
+**Time Spent**: 1 hrs 30 mins
+
+**Today's Progress**: Spent the entire time debugging my code from yesterday. The overflow and display attributes saved my life today! It's not perfect, but I feel like I've done all that I can with CSS for this scenario, since my intuition tells me I'd need javascript to dynamically select which attribute (height or width) to set to 100% (depending on if the photo is portait or landscape) in order to get ALL images, regardless of dimension to fit in a square. 
+
+**Thoughts**: While I was frustrated early on, I had so much fun experimenting and just being a programmer today (debugging and Googling fixes online). It was literally at the 55th minute where I had some insight as to what would work (the overflow attribute), and then I was on my way. So excited to end the unit with another exercise like this one tomorrow! JAVASCRIPT, HERE I COME!
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/G708KD
