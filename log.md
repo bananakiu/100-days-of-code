@@ -135,3 +135,15 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/G708KD
+
+### Day 10: September 13, 2018 - Thursday
+
+**Time Spent**: 1 hrs 05 mins
+
+**Today's Progress**: Finished up the unit on Intermediate CSS. Did the final unit exercise which involved making a simple blogging page with Lorem Ipsum text, which was pretty fun and straightforward. I also used an online color picker, but upon discovering my need for a dropper tool, I quickly got a Chrome Extension which has a dropper tool I can use on any page to provide me with the hexcode of any color (it also has a color picker built-in)!
+
+**Thoughts**: I didn't learn much today, but I was able to synthesize everything I've learned so far in this interesting module. I feel like the box model really comes naturally to me now at this point, so that's just amazing. I use an "M&M" analogy to remember the terminology of the box model, as weird as it sounds. The padding represents the chocolate inside; the border represents the sugar coated border which shield the chocolate of the M&M; and very conveniently, the margin is the "m" on the M&M logo which is on the sugar coated border. In other news, I am very excited to use javascript and do some /actual/ programming!
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/5ejPVJ (not yet updated)
