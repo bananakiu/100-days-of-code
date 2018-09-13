@@ -136,7 +136,7 @@
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/G708KD
 
-### Day 10: September 13, 2018 - Thursday
+### Day 11: September 13, 2018 - Thursday
 
 **Time Spent**: 1 hrs 05 mins
 
