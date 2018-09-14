@@ -147,3 +147,15 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/5ejPVJ
+
+### Day 12: September 14, 2018 - Friday
+
+**Time Spent**: 1 hrs 05 mins
+
+**Today's Progress**: Learned about Bootstrap for CSS and it was pretty amazing! It's another layer of abstraction, but it made building basic responive websites so much faster and user-friendly. I didn't do so much unsupervised learning (not in the machine learning sense LOL), but I was able to pick up on a lot of basics thanks to Colt Steele's Udemy course.
+
+**Thoughts**: Wow, that was pretty fun. I guess I understand how web developers can build websites so fast now. Frameworks and libraries (much like in Python), really enhance the experience of coding, making it a lot less verbose and unecessarily taxing. I guess seeing myself as a web developer is a little more believable after finding out about Bootstrap. I'm EXTREMELY far from being even close to a full-stack developer though. I'm excited to learn more about Bootstrap (and Javascript later on).
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/2BjVMp
