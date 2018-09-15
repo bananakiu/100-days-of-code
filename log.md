@@ -159,3 +159,16 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/2BjVMp
+
+### Day 13: September 15, 2018 - Saturday
+
+**Time Spent**: 1 hrs 10 mins
+
+**Today's Progress**: Worked on Bootstrap nav-bars and the studied the grid system today. It was pretty difficult! I had some problems w/ the version of Bootstrap as well, because the Udemy course I'm taking uses Bootstrap 3, but I went ahead and used Bootstrap 4 at first.
+
+**Thoughts**: Upon finding out about the recency of the release of Bootstrap 4 though, I decided to just learn CSS and JS Bootstrap with Bootstrap 3. I'll just checkout migration tutorials and changes in documentation when I finish the course. I hope I don't regret that decision. I had a really hard time today! Really hope the unit exercise is hard enough to help me synthesize all of this! So excited for Javascript, but I feel like I really need to establish some degree of mastery (or at the very least, comfort) with Bootstrap first.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/amj0V4
+
