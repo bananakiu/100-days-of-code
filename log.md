@@ -172,3 +172,14 @@
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/amj0V4
 
+### Day 14: September 16, 2018 - Sunday
+
+**Time Spent**: 1 hrs 15 mins
+
+**Today's Progress**: Learned more about the inner workings of the grid system. Built a photo grid yet again, but with more features (it's scalable thanks to Bootstrap)! 
+
+**Thoughts**: It wasn't too challenging today, but nonetheless, it was full of learning. I finally got to synthesize what I knew from Bootstrap so far, and it was really fun creating something that looked pretty good too. I have to debug a part of the code tomorrow though, which involves unevenly sized images again. much like the first photogrid.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/GA0gbp
