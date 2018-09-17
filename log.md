@@ -183,3 +183,16 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/GA0gbp
+
+
+### Day 15: September 17, 2018 - Monday
+
+**Time Spent**: 1 hrs 10 mins
+
+**Today's Progress**: Retouched the photo gallery website I did yesterday for the Udemy course I'm taking. Started with the Startup Landing page code-along using my own startup idea from back in 2015 (similar idea to https://hangtimeapp.com/).
+
+**Thoughts**: Today was pretty cool! I got introduced to even more resources like Font Awesome. I guess it just goes to show that part of being a good web developer is being exposed to or finding the right resources as well to make efficient/bearable workflow a lot more feasible. Ending Bootstrap tomorrow, so I'm excited to find out more about Javascript when I watch the intro!
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/ax6Pxd
