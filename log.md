@@ -196,3 +196,16 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/ax6Pxd
+
+### Day 16: September 18, 2018 - Tuesday
+
+**Time Spent**: 1 hrs 05 mins
+
+**Today's Progress**: Finished the startup landing page for my old startup idea, MeetApp (props to my dad for that name). I'm done with the Bootstrap module and am now starting with Javascript!
+
+**Thoughts**: I feel I have a lot more confidence with Bootstrap now. Javascript also started out pretty easy. Having a strong background with Python helps, as Javascript seems like it's closer to the structure of most programming languages out there that I've been exposed to (Java, C, Python, Swift, etc.)
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/aJgljd
+
