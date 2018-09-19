@@ -209,3 +209,14 @@
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/aJgljd
 
+### Day 17: September 19, 2018 - Wednesday
+
+**Time Spent**: 1 hrs 05 mins
+
+**Today's Progress**: Did 3 exercises on Javascript today: an age calculator, a website that says your name back, and one that just says "hi." Still doing pretty basic stuff right now, but I guess it's important not to skip this, because it's good to have great foundations when learning a new language.
+
+**Thoughts**: Nothing pretty spectacular is going on right now, because it's still the basics. I find it a little slow too right now, because I have a background in Python. This means the next 2-3 units will be pretty chill too. I guess it's just time to relax for now and pay attention to any tips, tricks, and shortcuts in the meantime.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/5Zjypz
