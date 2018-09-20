@@ -220,3 +220,15 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/5Zjypz
+
+### Day 18: September 20, 2018 - Thursday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Built a simple Javascript number guessing game with alerts, prompts, etc., and built a simple Javascript page that checks out properties about your age. Learned about Javascript logical operators and conditionals today.
+
+**Thoughts**: I guess this is the day I remember how important it is to slow down and really listen even during the basics. This is because while I do have some solid knowledge on logical operators and conditionals in general already, Javascript has these special nuances (e.g. the use of "===", "==" being less strict, and truthy and falsy values). It was simple and fun today! Hopefully, the next few days will be a little more challenging.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/5z9vmO
