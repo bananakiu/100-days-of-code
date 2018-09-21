@@ -232,3 +232,15 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/5z9vmO
+
+### Day 19: September 21, 2018 - Friday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Learned about Javascript control flows today. Specifically, I got to learn the syntax for while loops in Javascript. Got to do a lot of exercises as well, solidifying my knowledge on logical operators, conditionals, and while loops.
+
+**Thoughts**: Nothing logically challenging, as I've been through this via Python before, but it's still nice to get aclimated with a new language's way of doing things. I'm getting a little impatient, but it might simply be because of the lack of substantial and concrete output. Just gotta remind myself the fundamentals are just as important!
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/G8YVJA
