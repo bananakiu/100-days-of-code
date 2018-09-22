@@ -244,3 +244,15 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/G8YVJA
+
+### Day 20: September 22, 2018 - Saturday
+
+**Time Spent**: 1 hrs 15 mins
+
+**Today's Progress**: Finished the module on Javascript control flows with exercises on For Loops. Learned a lot about JS functions and did a couple of exercises on those too.
+
+**Thoughts**: I got to learn a lot about the syntax for For Loops and Functions, which are honestly pretty similar across languages. Learned a couple of nuances about Javascript as well, like how functions called with incomplete parameters still run (empty parameters become equal to undefined).
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/aywwnn
