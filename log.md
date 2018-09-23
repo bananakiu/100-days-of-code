@@ -256,3 +256,15 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/aywwnn
+
+### Day 21: September 23, 2018 - Sunday
+
+**Time Spent**: 1 hrs 05 mins
+
+**Today's Progress**: Finished the module on JS functions and started with the one on arrays. I built a simple to-do list app on the chrome browser. It's nothing fancy, but it's exciting to finally building something with some functionality.
+
+**Thoughts**: It's always nice to learn slicing and indexing in languages. It's also very convenient that it is very similar with Python, which I have some level of mastery with. I think I'll be done with Javascript basics in about 2-3 more days. After that, I'll be studying DOM-related stuff, whatever that is.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/amjjB0
