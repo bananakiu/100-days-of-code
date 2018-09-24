@@ -268,3 +268,15 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/amjjB0
+
+### Day 22: September 24, 2018 - Monday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Learned about array iteration in Javascript, and found out about forEach, a method that's new to me. Using these, I upgraded my To Do List app for more functionality and readability.
+
+**Thoughts**: Excited to finish up Javascript basics to be honest. It might be because of the lack of the satisfaction of completing a nice-looking project. But I guess I have to remind myself that I can't rush this. Things like forEach are what I wouldn't have learned if I didn't take things slow. The grind continues..
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/5Q6r0q
