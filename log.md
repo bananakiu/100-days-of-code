@@ -280,3 +280,15 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/5Q6r0q
+
+### Day 23: September 25, 2018 - Tuesday
+
+**Time Spent**: 1 hrs 05 mins
+
+**Today's Progress**: Did a problem set to summarize my understanding on Javascript arrays so far. Also learned a lot of background information about Javascript objects as well. I'll be finished with the Arrays unit and maybe half of the Objects unit by tomorrow.
+
+**Thoughts**: Today's exercises were challenging enough for me to learn and not be frustrated. Also, in terms of doing this challenge, today was the hardest to do, because we visited our boss in the morning in the hospital, because he got dengue over the weekend. I guess the best approach is to really wake up early for the purpose of completing the challenge first thing in the morning. I'll take that approach next time.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/5D368Z
