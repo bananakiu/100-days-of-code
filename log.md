@@ -292,3 +292,16 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/5D368Z
+
+### Day 24: September 26, 2018 - Wednesday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Finished the unit on JS Arrays by deconstructing and rebuilding the ForEach function. Also played with JSON structures by making my own movieDB for this Javascript Objects exercise Colt Steele gave. I'm really close to finishing the unit on JS Objects, so I'm pretty much done with Javascript Basics!
+
+**Thoughts**: It was fun to play around with the JSON file type. I can finally tell myself that isn't a foreign word to me anymore. I'm also excited to move on to more backend related stuff tomorrow (I'm assuming DOM is part of backend).
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/G8YkqD
+
