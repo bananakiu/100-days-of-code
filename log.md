@@ -305,3 +305,14 @@
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/G8YkqD
 
+### Day 25: September 27, 2018 - Thursday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Finished Javascript Basics and learned about objects and the "this" keyword. I'm finally in the DOM unit, so JS, CSS, and HTML are coming together! I made a basic html file that changes background color every second. 
+
+**Thoughts**: So excited to finally make stuff again! DOM is basically the intersection of HTML, CSS, and JS, so thisi s basically what I've been waiting to do for so long! So hyped up!!
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/5oqgVg
