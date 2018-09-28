@@ -316,3 +316,15 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/5oqgVg
+
+### Day 26: September 28, 2018 - Friday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Not much coding today. Instead, I studied a lot of DOM selection and manipulation (specifically style and text manipulation).
+
+**Thoughts**: Some things fascinated me, like how Javascript can toggle classes instead of individual styles on HTML tags, which adheres to the important concept of separation of concerns. I know I keep saying this, but it's getting really exciting! Can't wait to build my own website and another for my dad's company!
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/G6gBZz
