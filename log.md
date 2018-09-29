@@ -328,3 +328,15 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/G6gBZz
+
+### Day 27: September 29, 2018 - Saturday
+
+**Time Spent**: 1 hrs 10 mins
+
+**Today's Progress**: Used Javascript to change Google's logo to Runescape's logo. Also redirected all links in the webpage to go to https://runescape.com. It's one of my favorite games! HAHA. Finished the module on DOM Manipulation and started with Advanced DOM Manipulation.
+
+**Thoughts**: The module on DOM Manipulation really opened my eyes to the possibilities of web development and made it feel a little more feasible/doable for me. I'm reallyt excited about the Advanced DOM Manipulation module as well, since we're already dealing with event listeners!
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/2E3lBK
