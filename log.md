@@ -335,8 +335,20 @@
 
 **Today's Progress**: Used Javascript to change Google's logo to Runescape's logo. Also redirected all links in the webpage to go to https://runescape.com. It's one of my favorite games! HAHA. Finished the module on DOM Manipulation and started with Advanced DOM Manipulation.
 
-**Thoughts**: The module on DOM Manipulation really opened my eyes to the possibilities of web development and made it feel a little more feasible/doable for me. I'm reallyt excited about the Advanced DOM Manipulation module as well, since we're already dealing with event listeners!
+**Thoughts**: The module on DOM Manipulation really opened my eyes to the possibilities of web development and made it feel a little more feasible/doable for me. I'm really excited about the Advanced DOM Manipulation module as well, since we're already dealing with event listeners!
 
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/2E3lBK
+
+### Day 28: September 30, 2018 - Sunday
+
+**Time Spent**: 1 hrs 10 mins
+
+**Today's Progress**: Learned how to add event listeners to buttons so that users themselves can modify things dynamically on a webpage. I'm currently in the middle of completing a simple score keeper app, which I'm going to be finishing up tomorrow.
+
+**Thoughts**: I tried to do the code-along by myself first before watching the video, which significantly improve my learning speed. I'm going to do this more often moving forward
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/5NOY69
