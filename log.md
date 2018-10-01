@@ -347,8 +347,20 @@
 
 **Today's Progress**: Learned how to add event listeners to buttons so that users themselves can modify things dynamically on a webpage. I'm currently in the middle of completing a simple score keeper app, which I'm going to be finishing up tomorrow.
 
-**Thoughts**: I tried to do the code-along by myself first before watching the video, which significantly improve my learning speed. I'm going to do this more often moving forward
+**Thoughts**: I tried to do the code-along by myself first before watching the video, which significantly improve my learning speed. I'm going to do this more often moving forward.
 
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/5NOY69
+
+### Day 29: October 01, 2018 - Monday
+
+**Time Spent**: 1 hrs 05 mins
+
+**Today's Progress**: Finished the module on advanced DOM manipulation with a couple of exercises: an interactive to-do list that has events happening upon hovering and clicking and a scorekeeper web app that can keep track of the scores of 2 players playing against each other in a turn-based manner.
+
+**Thoughts**: I think the exercises to end the module were pretty solid! I feel very comfortable with what I know, and I think I can accomplish a lot with the skillset I have at this point. There is still SO MUCH to learn though. The grind continues.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/29ZnD1
