@@ -364,3 +364,16 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/29ZnD1
+
+### Day 30: October 02, 2018 - Tuesday
+
+**Time Spent**: 1 hrs 05 mins
+
+**Today's Progress**: Started with a new unit called the "Color Game Project" which is a project aimed at synthesizing all I've learned about DOM manipulation, Javascript, HTML, and CSS so far.
+
+**Thoughts**: I'll probably spend the next 2-3 days finishing this up. I did some coding while doing other things like preparing breakfast, which really threw my focus off and affected my "learning rate," so that's something I should avoid next time.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/arrWnq
+
