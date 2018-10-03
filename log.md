@@ -377,3 +377,14 @@
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/arrWnq
 
+### Day 31: October 03, 2018 - Wednesday
+
+**Time Spent**: 1 hrs 05 mins
+
+**Today's Progress**: Continued my progress with the color game project. I added a reset/play again button, a game mode button (hard/easy), and programmed logic into the game.
+
+**Thoughts**: Lots of fun today, programming logic into the game! I guess this is what I've always wanted to do, even back as an app enthusiast. It's just easier and faster to do in web development than app development, at least in comparison to the short stint I had as an Android app developer for 2-3 weeks.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/2prPA6
