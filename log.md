@@ -388,3 +388,15 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/2prPA6
+
+### Day 32: October 04, 2018 - Thursday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Finally finished the color game project, which was amazing! It's a fully functional and decent looking game. It's actually pretty fun to play too! I'm doing jQuery next, which is exciting, because I had a taste of transitions today.
+
+**Thoughts**: I might actually place this in my portfolio, but I'm still not sure if I should, because it's the product of a code-along. Anyway, at this point, I'm already thinking of what to put on my web development portfolio in the future. One would be a website for my dad's textile company, another might be a web app for this startup idea I got just earlier this week, and many more I have yet to think of.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/al7RVB
