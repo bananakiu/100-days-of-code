@@ -400,3 +400,15 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/al7RVB
+
+### Day 33: October 05, 2018 - Friday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Started with jQuery today! Been learning how it works vs. vanilla JS conceptually and in code. Also, programmed a shortcut to open HTML files directly from Sublime Text (got it from here: https://www.michaelcrump.net/getting-sublime-3-to-launch-your-html-page-in-a-browser-with-a-key-combo).
+
+**Thoughts**: I was honestly doing fine with vanilla JS DOM Manipulation, but wow, jQuery makes it so much cleaner, faster, and more fun to do these things. Really excited to learn this to speed up some coding before I move on to actual larger-scale projects! The keyboard shortcut for opening HTML files directly from Sublime Text that I programmed today will save me a ton of time as well! Neat stuff.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/GLJVkk
