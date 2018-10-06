@@ -184,7 +184,6 @@
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/GA0gbp
 
-
 ### Day 15: September 17, 2018 - Monday
 
 **Time Spent**: 1 hrs 10 mins
@@ -412,3 +411,15 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/GLJVkk
+
+### Day 34: October 06, 2018 - Saturday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Did my first exercise on jQuery selectors. Learned a lot about very different methods in jQuery, thus my mishmash of code for this week. Finished the unit on the Intro to jQuery, so I'm moving on to Advanced jQuery starting tomorrow, which will likely last for 1-2 days. 
+
+**Thoughts**: I'm about 5 days away from backend, so it's really time to solidify the frontend knowledge I have. Reviewing it all in jQuery isn't half bad either! This 100 days of code thing is amazing. I really feel like I never have an unproductive day anymore, plus I actually move towards a concrete goal I have: become a web developer. 
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/5z9Av4
