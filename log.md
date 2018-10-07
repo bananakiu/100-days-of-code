@@ -435,3 +435,15 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/GbjOXw
+
+### Day 36: October 08, 2018 - Monday
+
+**Time Spent**: 1 hrs 05 mins
+
+**Today's Progress**: Made a functional to-do list webapp that can strike through finished tasks and delete them as well. Also did some of the styling, but I'm not yet done. Will surely finish by tomorrow.
+
+**Thoughts**: Always fun to be working on a concrete project! Did this hour of code after midnight, which is a first, so I won't be coding when I wake up tomorrow morning. Instead, I'll be helping my mom get ready to leave for the airport (she visited me throughout this weekend). Gotta get used to stuff like this if I wanna be consistent with my coding practice. There will be days I wake up at dawn to code as well, I'm sure.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/5wQJYx
