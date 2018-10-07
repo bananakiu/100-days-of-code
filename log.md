@@ -423,3 +423,15 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/5z9Av4
+
+### Day 35: October 07, 2018 - Sunday
+
+**Time Spent**: 1 hrs 05 mins
+
+**Today's Progress**: Finished Advanced jQuery today in Colt Steel's Udemy course. Learned about jQuery events and effects and tested them all out! Pretty fun today today, because I got to see how simple it is to add basic events like fading and sliding.
+
+**Thoughts**: Finally done with basic knowledge on jQuery! Really excited to do that nice To-do List project for the next 2 days or so. Can't wait to get back to creating things!
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/GbjOXw
