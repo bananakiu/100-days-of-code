@@ -447,3 +447,16 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/5wQJYx
+
+### Day 37: October 09, 2018 - Tuesday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Finished styling my todo list app, which you can checkout here: https://codepen.io/leandre-kiu/pen/EdZXBQ! Was really able to synthesize a lot of my learning so far, and it's been amazing!
+
+**Thoughts**: Considering switching to codepen fully for my code sharing, because users will be able to checkout and interact with my projects. Also, because Codeshare doesn't seem to have a feature where I can seamlessly put codes of different file formats into one page (html, css, js). Really had fun doing the todo list project, and I can't wait to start with the Patatap Clone. Using libraries is always amazing, because it empowers you to be able to do so much more very quickly. Can't wait!
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/2W8okE
+3. Interactive Code: https://codepen.io/leandre-kiu/pen/EdZXBQ
