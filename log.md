@@ -460,3 +460,15 @@
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/2W8okE
 3. Interactive Code: https://codepen.io/leandre-kiu/pen/EdZXBQ
+
+### Day 38: October 10, 2018 - Wednesday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Spent some time configuring Sublime Text's syntax coloring for paperscript. Also, I learned about Paper JS today and drew some very basic lines and circles.
+
+**Thoughts**: I didn't really get to code much. I did mostly configuring and debugging today, even with the little code I wrote. Kind of a boring day, but seeing all the possibilities of Paper JS excites me.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/5ejkbl
