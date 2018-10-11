@@ -472,3 +472,15 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/5ejkbl
+
+### Day 39: October 11, 2018 - Thursday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Did more work with Paper JS and Howler JS. Really got a lot of work done for the https://patatap.com/ clone I'm making via Colt Steel's course. 
+
+**Thoughts**: Lots of fun working with shapes, animations, sounds, and really concrete things in general. Really excited to finish this Patatap clone by tomorrow. Also, tomorrow, I'll officially be moving to backend stuff, which I suddenly have mixed feelings about. I personally feel like I still need more concrete practice with frontend stuff, moving to the backend. Maybe after this entire course, I'll do like 5-10 frontend projects, before going full-stack and further developing my backend skills (inclined to learn Django, since I'm a Python geek).
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/2K7ePo
