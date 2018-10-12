@@ -484,3 +484,15 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/2K7ePo
+
+### Day 40: October 12, 2018 - Friday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Finished the patatap.com clone. Done with the fundamentals of Frontend, and now, I officially begin my backend web developer journey! Wish me luck! Learned about stacks and web technologies today.
+
+**Thoughts**: Really excited to start with backend, especially after that lengthy introduction Colt Steel gave. Really interesting to finally learn how websites really work under the hood. I think I'll enjoy backend a lot, especially given my background and inclination towards data science and Python. Also, I'm officially 40% done with #100DaysOfCode!
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/5ejAAA
