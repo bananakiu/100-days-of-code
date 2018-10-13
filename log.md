@@ -496,3 +496,15 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/5ejAAA
+
+### Day 41: October 13, 2018 - Saturday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: No code today. Spent the day listening to lectures and understanding how HTTP requests work (used an application called Postman for this). Also, I was able to learn about the basic mechanisms of backend, like the get and post requests, servers, databases, and how they all interact with each other.
+
+**Thoughts**: Was sleepy today, mostly because I started coding earlier (body clock's slowly normalizing again). It was nice and illuminating to find out exactly how dynamic pages get their content and how the server talks to the database, etc. Hope I get more engaged as these things become even more concrete!
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/ax6NAM
