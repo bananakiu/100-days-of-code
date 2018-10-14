@@ -508,3 +508,15 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/ax6NAM
+
+### Day 42: October 14, 2018 - Sunday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: No code today. Spent the day setting up my coding environment (Cloud 9) and learning about basic command line commands. I took a while to set up, because I tried to setup the MEAN stack locally, only to realize (after watching Colt's video) that it would be much better (and just as fast) to use Cloud 9.
+
+**Thoughts**: I guess setting up and learning the basics of these things are important. I will employ the same attitude I had with Javascript Basics. I'll get into the exciting stuff in about 2-3 more days I think! Not too long of a wait left hehe.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/5D3K8p
