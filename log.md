@@ -520,3 +520,15 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/5D3K8p
+
+### Day 43: October 15, 2018 - Monday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Finished the Command Line module today by completing a fun little exercise. Started learning Node JS, my first server-side language. Did a couple of exercises for Node as well. I was also able to learn about Node JS in general, and how it revolutionized backend web development (by allowing JavaScript to be used in the backend).
+
+**Thoughts**: Finally coding again! 2 days of just lecture was pretty interesting and definitely worthwhile, especially because my main disadvantage as a non-CS business major is my lack of a strong conceptual foundation, but it was definitely fun being coding again! Excited for what else Node JS has to offer (I can't stop thinking of it as a temporary language though, because I plan on learning Django and React in the future).
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (introToNode & introToCommandLine folders)
