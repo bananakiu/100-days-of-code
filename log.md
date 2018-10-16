@@ -532,3 +532,15 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (introToNode & introToCommandLine folders)
+
+### Day 44: October 16, 2018 - Tuesday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**:  Learned about NPM today, which is pretty powerful. I learned how to basically import JS libraries/packages into the backend, which makes the possibilities for this endless! Imported cat-me, knock-knock-jokes, and an actual useful package called faker, which creates fake data. I did a couple of exercises on these to solidify my knowledge, which I feel worked.
+
+**Thoughts**: I can draw parallels with Python here and conda/pip, which just further reinforces my view of JavaScript as something truly powerful. I'm really excited to learn about more popular and useful packages to really quickly expand my ability to create things. Personally, it was really difficult to get my #100DaysOfCode done today, because of my irregular work shift for the day. Went in the office really early, because of a team activity, so I wasn't able to do my work early in the morning. I guess this is why the "CEO schedule" really works; by waking up so early, you get so much productive work done in the morning, such that everything else that happens after it is just icing on the cake. Pretty amazing realization.. that will likely be something I'll be working towards in the future.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (introToNode)
