@@ -556,3 +556,15 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (introToExpress)
+
+### Day 46: October 18, 2018 - Thursday
+
+**Time Spent**: 1 hrs 15 mins
+
+**Today's Progress**: Finished the Introduction to Express JS module by completing a pretty elaborate exercise on routing. Took me longer than usual, but I definitely had a lot of fun synthesizing everything I knew so far about routing.
+
+**Thoughts**: Things are becoming more concrete for me now, especially because of that exercise. Though, it's still been a challenge to balance this hour of code with my gym and work schedule without compromising one. I have to be more focused when I do my hour of code so that I take just 1 hour instead of 2, like today.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (introToExpress)
