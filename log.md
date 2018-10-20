@@ -568,3 +568,27 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (introToExpress)
+
+### Day 47: October 19, 2018 - Friday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Learned about views/templates and EJS (Embedded JavaScript) today, so I'm slowly understanding how dynamic webpages work. Just did code-alongs today.
+
+**Thoughts**: Nothing too fancy today, but it was fun extracting data from the URL and using that to dynamically impact webpages. Excited to do that with Databases in the future.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (intermediateExpress)
+
+### Day 48: October 20, 2018 - Saturday
+
+**Time Spent**: 1 hrs 10 mins
+
+**Today's Progress**: Learned a lot of important concepts today related to EJS files and Express. I learned about different EJS tags, about html partials, importance of paths, etc.
+
+**Thoughts**: Pretty insightful day today, just because of the volume of new concepts learned. I loved how Colt always makes sure to teach use how to make our code DRY (Don't Repeat Yourself), because it's really something that will be used heavily in practice. It also just helps me ensure I'm writing higher quality code.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (intermediateExpress)
