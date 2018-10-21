@@ -592,3 +592,15 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (intermediateExpress)
+
+### Day 49: October 21, 2018 - Sunday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Finished Intermediate Express JS today by making a simple app that uses a backend to dynamically update a website's content. Also learned about APIs and their utility.
+
+**Thoughts**: It was fun but messy working with a backend without a database yet, since we had to deal with variable scoping, but I guess it's nice to see how things work in the backend. I'm really excited about the module on APIs, because it's always been a term that I knew about (and knew the power of) without understanding it fully.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (intermediateExpress)
