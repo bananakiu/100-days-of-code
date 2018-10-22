@@ -604,3 +604,15 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (intermediateExpress)
+
+### Day 50: October 22, 2018 - Monday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Learned more concepts behind APIs, JSON files, and XML files. Got to try out accessing data from Yahoo's Weather API as well to find the sunset in Hawaii.
+
+**Thoughts**: Fun times! APIs are really exciting -- a sentiment I have that I've expressed many times. It's very enlightening understanding how the data that gets sent between apps look like, just so that I have a deeper understanding of what goes on when API requests are made.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (APIs)
