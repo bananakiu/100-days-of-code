@@ -616,3 +616,15 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (APIs)
+
+### Day 51: October 23, 2018 - Tuesday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Finished the module on APIs by constructing a simple Movie Search App via the Open Movie Database API. Started with the course's capstone project as well by watching the introduction to Yelp Camp.
+
+**Thoughts**: This was tons of fun! I think I just have a lot of enthuasiasm when it comes to APIs, because it opens up lots of possible use cases, which excites me as a natural entrepreneurship enthusiast with all these startup ideas running through my head.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (APIs)
