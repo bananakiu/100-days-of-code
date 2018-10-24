@@ -628,3 +628,15 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (APIs)
+
+### Day 52: October 24, 2018 - Wednesday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Made progress on the capstone project of the course: YelpCamp. Got a preview of the RESTful routing convention while coding up some GET and POST routes. Also got to practice more on coding up JS code on EJS files.
+
+**Thoughts**: Routing is slowly getting more confusing, especially since I just really coded along without slowing down much, because I woke up late today. I might want to break down the logic of things (e.g. how data gets moved from one page to another, the real differences of GET and POST requests and what those differences imply, etc.).
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (YelpCamp)
