@@ -640,3 +640,15 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (YelpCamp)
+
+### Day 53: October 25, 2018 - Thursday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Did a lot of Bootstrap styling for my YelpCamp project today, so it was a nice little review. At the same time, I learned about databases (SQL vs. noSQL) as well on a conceptual level.
+
+**Thoughts**: Bootstrap's pretty difficult, man! Not because of how it's used, but because of the myriad of options avaialble. I feel like I should really either do a lot of Bootstrap projects or take a dedicated Bootstrap online class to really master it. On the flip side, I really enjoyed the lecture on databases today, because it really confirmed a lot of concepts and conclusions I've made in my head throughout my time being exposed to them.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (YelpCamp)
