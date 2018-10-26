@@ -652,3 +652,15 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (YelpCamp)
+
+### Day 54: October 26, 2018 - Friday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Spent the whole session just setting up MongoDB in Cloud9 and then playing around with Mongo console commands.
+
+**Thoughts**: Not much happened today. Was generally really distracted, because I had to help out some friends and there was a Lakers game on (huge LeBron fan here), so I had to backtrack a lot, and lost lots of time. I might look into waking up at dawn and then doing my hour of code before sleeping again, just so that I have that sacred time.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (???)
