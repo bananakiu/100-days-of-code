@@ -664,3 +664,15 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (YelpCamp)
+
+### Day 55: October 27, 2018 - Saturday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Continued the module on Databases by reviewing some MongoDB shell commands, and then learning about Mongoose. I was able to do some CRUD with that as well.
+
+**Thoughts**: Even Mongoose seems a little verbose right now. I really hope that the next following lectures will prove that Mongoose and MongoDB are a little more user-friendly that they appear to me right now. Exciting stuff though! Knowing how to use databases will really change the game in terms of functionality of websites I can build.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (Databases)
