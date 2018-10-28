@@ -676,3 +676,15 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (Databases)
+
+### Day 56: October 28, 2018 - Sunday
+
+**Time Spent**: 1 hrs 05 mins
+
+**Today's Progress**: Added MongoDB to the YelpCamp project via Mongoose, and learned a lot about RESTful routing (INDEX, NEW, CREATE, SHOW). Lots of backend stuff still!
+
+**Thoughts**: Many people might find this boring, but I honestly am finding this really interesting. Knowing how data is stored just excites me because of the potential power it brings to apps (data persistence). Though, I'm concerned about how I will remember all the nitty-gritty with the backend.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (YelpCamp)
