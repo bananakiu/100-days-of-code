@@ -688,3 +688,15 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (YelpCamp)
+
+### Day 57: October 29, 2018 - Monday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Formally started the module on RESTful routes by starting with a conceptual overview of them, and then by starting a blogging website. Gonna use this doggo from unsplash.com as my test post, which I will be implementing tomorrow.
+
+**Thoughts**: Great to finally demystify what "RESTful" really is, which has been a concept that I've only the name of (and nothing else) for about a month now. This will really help me with dealing with APIs, and help me with the side projects I plan on doing.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (YelpCamp)
