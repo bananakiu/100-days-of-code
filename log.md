@@ -699,4 +699,16 @@
 
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
-2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (YelpCamp)
+2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (RESTful_routing)
+
+### Day 58: October 30, 2018 - Tuesday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Learned about Semantic UI today and integrated it in the blogging app I'm making to learn RESTful routing. There's still an issue with the navbar, but I'll get that fixed very soon.
+
+**Thoughts**: Semantic UI seems a little easier to use than Bootstrap, in that the way you call classes just seem to make a little more sense.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (RESTful_routing)
