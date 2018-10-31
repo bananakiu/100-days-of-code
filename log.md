@@ -712,3 +712,15 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (RESTful_routing)
+
+### Day 59: October 31, 2018 - Wednesday
+
+**Time Spent**: 1 hrs 05 mins
+
+**Today's Progress**: Had to redo the navbar styling, because yesterday's progress wasn't saved completely. Implemented the NEW and CREATE routes today, and styled the form for the new.ejs page as well.
+
+**Thoughts**: Today was fun! And styling with Semantic UI is actually a lot more fun that using Boostrap (I might consider learning both).
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (RESTful_routing)
