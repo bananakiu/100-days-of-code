@@ -724,3 +724,15 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (RESTful_routing)
+
+### Day 60: November 1, 2018 - Thursday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Difficult coding day today, because there internet was extremely slow. Was stuck on the same video/code-along, but was able to do some work on the SHOW page. Started a bit on the UPDATE and EDIT routes as well.
+
+**Thoughts**: The long weekend just started, and I guess that's part of the reason why it's hard to get started (especially since I have a guest over --> my brother). It's a really great way to make sure I get to make this habit of learning 1 hr a day every single day more sustainable do. This is timely, because, honestly, I'cw bwwn having a hard time sustaining the practice lately.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (RESTful_routing)
