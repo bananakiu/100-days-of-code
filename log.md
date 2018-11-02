@@ -736,3 +736,16 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (RESTful_routing)
+
+### Day 61: November 2, 2018 - Friday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Finished the functionality side of the Doggo Blog by adding EDIT, UPDATE, and DELETE routes, and got to test them out a little. Pretty much a functional blog! \*pats self on shoulder\*
+
+**Thoughts**: Had a lot of fun today, especially since I finally finished the functionality side of the blog, which allowed me to clean up the database using a GUI, instead of MongoDB commands. Though it was one of those days where I had to actually split my coding hour into parts (15 mins in the morning, 45 mins in the afternoon), because I had to take my brother to the airport (via one of my best friends), and I had plans in the evening. It's getting kinda tough sustaining this as a habit. I still do it, but wow, I can see this becoming unsustainable, especially on the holidays. I'll definitely set more relaxed rules for the next 100 Days of X challenge.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (RESTful_routing)
+
