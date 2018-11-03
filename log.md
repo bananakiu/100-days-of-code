@@ -749,3 +749,15 @@
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (RESTful_routing)
 
+### Day 62: November 3, 2018 - Saturday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Finished up the Doggo Blog by styling the INDEX page (home page) and doing some HTML sanitizing. Also learned about Data Associations and how important they are in expanding the power of your application.
+
+**Thoughts**: It was immensely satisfying finishing the Doggo Blog and fixing that initially terrible looking INDEX page. Also, Data Associations feel like a burden to learn right now, but I guess they are really important, especially for adding the concepts of user-specific content on websites. Moreover, today was the day I almost skipped my hour of code. I finished this hour past midnight already before sleeping. I was out with friends all day (island hopping in the morning and afternoon) and virtually straight to dinner with another set of friends in the evening. Good thing I was encouraged my Lexi to still push through with my coding, so that I could maintain my streak. Wow, I can't belive it's been 62 days of this though. It's been really tough, and today was really difficult to accomplish, but hey, I say all of this, yet I still am consistent with this streak. 38 more days!
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (RESTful_routing)
+
