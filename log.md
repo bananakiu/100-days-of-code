@@ -759,5 +759,16 @@
 
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
-2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (RESTful_routing)
+2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (RESTful_routing, associations)
 
+### Day 63: November 3, 2018 - Saturday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Learned more about data associations. To be specific, I learned about embedded data and object references -- ways to associate different "sets" of data. 
+
+**Thoughts**: Today was fun and relatively more relaxing than most sessions. Though, I can see myself only being able to do a lot of the Mongoose stuff only with a reference. I can't imagine other programmers memorizing these Mongoose protocols only by heart.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (associations)
