@@ -761,7 +761,7 @@
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (RESTful_routing, associations)
 
-### Day 63: November 3, 2018 - Saturday
+### Day 63: November 4, 2018 - Sunday
 
 **Time Spent**: 1 hrs 00 mins
 
@@ -772,3 +772,15 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (associations)
+
+### Day 64: November 5, 2018 - Monday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Finished the module on data associations, by learning about module.exports and how to make code more modular. Finally back in Yelp Camp (the culminating project for the course). Learned about seeding databases and how useful that can be, especially for dev work.
+
+**Thoughts**: Glad to finally be done with the boring, but highly useful data associations module. That really equipped me with a lot of the knowledge I need to build apps with robust databases (with actual structure) moving forward. Also, I'm glad to be working on YelpCamp again. Seeding databases is also exciting me, because doing dev work and running app.js over and over again is making the website look so cluttered, housing a lot of duplicated data.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (associations, YelpCamp)
