@@ -784,3 +784,15 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (associations, YelpCamp)
+
+### Day 65: November 6, 2018 - Tuesday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Finished learning how to seed a database, which will really help clean up development. Also, integrated my knowledge on data associations by adding comments into YelpCamp and fixing the corresponding data associations (object referencing).
+
+**Thoughts**: Today was pretty difficult in that I had to debug a lot and because the number of nested callback functions in the seeds.js file were just too many and too deep. Difficult day. I woke up late too, so that didn't help so much with my motivation.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (YelpCamp)
