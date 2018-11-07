@@ -796,3 +796,15 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (YelpCamp)
+
+### Day 66: November 7, 2018 - Wednesday
+
+**Time Spent**: 1 hrs 10 mins
+
+**Today's Progress**: Added the comment functionality on my capstone project for this course. Did proper data associations and followed RESTful routing conventions. I did have to debug some stuff though, which was why I went 10 minutes over an hour for today.
+
+**Thoughts**: Was a little easier to get through the hour of code today, maybe because I just like RESTful routing in general.  Though I find it hard to relax on MWFs, because I code in the morning and gym right after, which is just tiring in terms of finding that essential "wasting time" period all millenials need. Anyway, I also bought the Machine Learning A-Z course last night in an attempt to commit to getting better at machine learning when I can. I checked out the course a little last night as well. I will study it, but it will not replace my hour of code for web development until I complete my 100 days.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (YelpCamp)
