@@ -808,3 +808,15 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (YelpCamp)
+
+### Day 67: November 8, 2018 - Thursday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Finished styling the comments section in the YelpCamp project, so now, comments are fully functional and styled. Started learning about authentication and Passport JS as well.
+
+**Thoughts**: I found it so motivating to see some concrete progress today (seeing the comments page come to life as well as be able to use the adding comments functionality). I guess I have to be better at Bootstrap, because styled pages give me life (at least in terms of motivation to keep going with the challenge).
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (YelpCamp)
