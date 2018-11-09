@@ -820,3 +820,15 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (YelpCamp)
+
+### Day 68: November 9, 2018 - Friday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Got introduced to Passport JS, which is a great package for quickly setting up authentication. Practiced using it via a mini-project for loading a secret page, which can only be accessed by users that are logged in.
+
+**Thoughts**: There are so many dependencies per project that it kinda makes me want to make some sort of boilerplate I can use to start any project with (with instructions on setting up npm init, installing packages; also has basic lines of code that makes the server listen for requests, does the MongoDB setup, has the views and models folder, and has basic partials with Boostrap linked already). I might set these up before I finish the course.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (AuthDemo)
