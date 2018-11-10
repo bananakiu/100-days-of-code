@@ -832,3 +832,15 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (AuthDemo)
+
+### Day 69: November 10, 2018 - Saturday
+
+**Time Spent**: 1 hrs 05 mins
+
+**Today's Progress**: Learned about making routes for signing up, logging in, and logging out. Learned about middleware as well and how to verify if a user is logged in or not. Also got to learn about a lot of built in functions that seem pretty overwhelming to take in all at once from Passport JS.
+
+**Thoughts**: Very complicated stuff. I guess this is code I can always just copy paste, but that's why this feels a little overwhelming or uneasy -- the fact I will be using this, yet I still lack a lot of mastery. Hopefully, implementing this into YelpCamp will help me gain confidence in this aspect of web dev.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (AuthDemo)
