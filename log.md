@@ -844,3 +844,15 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (AuthDemo)
+
+### Day 70: November 11, 2018 - Sunday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Got to review what I learned yesterday by applying them again, except into my YelpCamp app (the capstone project for the course). Almost done with the authentication portion of the project!
+
+**Thoughts**: Thankfully, it's a little clearer now than it was yesterday. I guess most of web dev is really just exposure and lots of practice.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (AuthDemo)
