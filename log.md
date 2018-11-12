@@ -855,4 +855,16 @@
 
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
-2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (AuthDemo)
+2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (YelpCamp)
+
+### Day 71: November 12, 2018 - Monday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Polished the login functionality by making the nav bar change based on login status. Spent some time cleaning up the routes of my ever-growing app.js file by using the Express Router.
+
+**Thoughts**: Fun day today! I love modularity and see its importance more and more as I code, not only in this coding challenge as a web developer, but also in my day job as a data scientist.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (YelpCamp)
