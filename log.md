@@ -868,3 +868,15 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (YelpCamp)
+
+### Day 72: November 13, 2018 - Tuesday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Did a lot of work under the hood today! Associated comments and campgrounds with users and fixed permissions on when one can create comments or campgrounds.
+
+**Thoughts**: I found today fun, maybe because it was largely a review of previous concepts (namely Data Associations and Mongoose Schema), so I had a lot of "small wins," which kept me motivated. I recognize that YelpCamp and this entire course is almost over, so I have to think about my next project more seriously (in order to finish my 100 Days of Code successfully).
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (YelpCamp)
