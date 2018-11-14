@@ -880,3 +880,15 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (YelpCamp)
+
+### Day 73: November 14, 2018 - Wednesday
+
+**Time Spent**: 1 hrs 05 mins
+
+**Today's Progress**: Added the EDIT, UPDATE, and DESTROY routes/functionality to the campgrounds in my YelpCamp app. 
+
+**Thoughts**: Things are starting to come together, especially since the full RESTful routing is done at least for the campgrounds objects (comments will be tackled later on). I just have to fix permissions and authorizations tomorrow, but things are looking good! I overslept today so it was discouraging to do my coding, but I got through it, especially since I seem to love RESTful routing. 
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (YelpCamp)
