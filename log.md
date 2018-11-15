@@ -892,3 +892,16 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (YelpCamp)
+
+### Day 74: November 15, 2018 - Thursday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Dealt with authorization (which is apparently different from authentication). Specifically, I setup the permissions for who can EDIT, UPDATE, and DELETE campgrounds.
+
+**Thoughts**: I had fun again. I guess now that most things are visibly set up, it's just a lot more motivating to work on the logic to make these visibly set up things function the right way. I guess, in the future, when I work on my own projects, I should make it a point to have enough design done before deeply working on the backend. That way, I might stay motivated longer.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (YelpCamp)
+
