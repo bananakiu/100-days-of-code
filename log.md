@@ -905,3 +905,14 @@
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (YelpCamp)
 
+### Day 75: November 16, 2018 - Friday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Almost done with the gist of YelpCamp, the capstone project for the course. Today, I added the edit and remove functionality for comments (no authorization yet).
+
+**Thoughts**: Today was a relatively easy day, because it was just a review of RESTful routes as well. I really think the repetitive nature of the lessons over the last few days have been great, since they've been drilling in the important concepts like RESTful routing, authorization, etc. in my head. Excited to learn about UI improvements and general best practices moving forward, after I finish the functionality of the website!
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (YelpCamp)
