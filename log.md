@@ -916,3 +916,15 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (YelpCamp)
+
+### Day 76: November 17, 2018 - Saturday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Applied the proper authorization mechanisms to comments, so the app's pretty much fully functional now. Also refactored my code a little by placing the middleware functions all in one file (and folder).
+
+**Thoughts**: Cool! Chill little day, but I learned that it's better to save a copy of your files and folders before doing major refactoring, cuz errors can happen, and I can see it being problematic / hard to fix for much bigger apps. Excited to do UI improvements! Wow, I'm almost done with the course!
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (YelpCamp)
