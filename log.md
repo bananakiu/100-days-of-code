@@ -928,3 +928,16 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (YelpCamp)
+
+### Day 77: November 18, 2018 - Sunday
+
+**Time Spent**: 1 hrs 05 mins
+
+**Today's Progress**: Learning about flash messages and how to integrate them into a website. (random) Also did something different by looking into algorithmic trading and how to implement that in Python -- this was a result of me looking into what projects I can do after I finish the course.
+
+**Thoughts**: Having a hard time going through my hours of code, but I have to push harder since there's just 23 days left! Also having some dissonance on what projects I wanna take up after my Udemy course. I want to make a trading bot or twitter bot which might yield me some long-term profit, but I also feel like the project has to be related to building a website of sorts.. (as I type this, I'm thinking of maybe making a web version of Google Tasks which would talk to the Google Tasks API just to make certain features available for Google Tasks (like recurring tasks, etc.)
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (YelpCamp)
+
