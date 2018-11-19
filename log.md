@@ -941,3 +941,15 @@
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (YelpCamp)
 
+### Day 78: November 19, 2018 - Monday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Finished setting up flash messages for the app (both for successes and errors). Starting redesigning the landing page for the app as well. It's almost done!
+
+**Thoughts**: One more day before I just have deployment, Javascript tricks, and Bootstrap left for the course. Getting quite sentimental (lol) but am excited at the same time. Really looking into that trading bot as well as a first project! Maybe a basic trade bot builder website? Might be a great actual startup as well.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (YelpCamp)
+
