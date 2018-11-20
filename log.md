@@ -953,3 +953,15 @@
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (YelpCamp)
 
+### Day 79: November 20, 2018 - Tuesday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Finished my culminating project for the course! Added a slideshow for my landing page, as well as a dynamic pricing feature for the campgrounds. Tomorrow, I'll populate the database, then show a demo video of the website.
+
+**Thoughts**: Wow, just like that, I'm done. I even took the liberty to style my login and sign up pages, because I didn't want to let go of the project yet, but hey.. in terms of functionality and design, I'm pretty much done (except maybe the text in the landing page could use some sort of background blur to make the "YelpCamp" easier to read). Learning Git and going to back Manila soon for Thanksgiving. Going to brainstorm with my dad for future projects (maybe a website for our annual family bazaar?)
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (YelpCamp)
+
