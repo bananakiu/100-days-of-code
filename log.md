@@ -965,3 +965,15 @@
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (YelpCamp)
 
+### Day 80: November 21, 2018 - Wednesday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Slowly learning workflow and deployment related things as I finish up my Udemy course. Learned about what Git and GitHub are for as well as basic git commands.
+
+**Thoughts**: Just lecture today! Pretty busy today as well, since I'm finally flying back to Manila tomorrow! :)
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (git-intro)
+
