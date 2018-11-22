@@ -977,3 +977,15 @@
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (git-intro)
 
+### Day 81: November 22, 2018 - Thursday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Spent the day learning about git checkout and git log.. so more version control stuff. Also starting to watch lectures on Heroku and deployment! Almost done with the course!
+
+**Thoughts**: Git was so interesting! Just kinda sad Colt's Git and GitHub lectures were still in the works.. would have loved to know more things about GitHub.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (git-intro)
+
