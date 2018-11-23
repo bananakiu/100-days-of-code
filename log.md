@@ -989,3 +989,15 @@
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (git-intro)
 
+### Day 82: November 23, 2018 - Friday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Spent the day learning about Heroku and deployment in general. Made a simple web app just to try it out. I haven't done the actual deployment yet, but I will in the next hour.
+
+**Thoughts**: Really scatterbrained today, because I was at home again, and I would rather do other things. Extremely ineffective hour of code today. Preventing these days from happening will be the goal of being a little less strict during my next hour of code challenge.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (deploymentDemo)
+
