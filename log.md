@@ -1001,3 +1001,18 @@
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (deploymentDemo)
 
+=========================================
+**skipped November 24, 2018 - Saturday**
+=========================================
+
+### Day 83: November 25, 2018 - Sunday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: It finally happend... I skipped a day (more on this on the log). Learned about the pipeline for deploying apps via Heroku and watched lectures on how exactly it was done. I watched these during my flight to Manila. I finished my hour of code by trying to apply it to YelpCamp.
+
+**Thoughts**: Wow, I can't believe I missed a day. But hey, sometimes, there are just some more important things in life that pop up that needs our attention. I was in Manila this weekend and the night I missed my hour of code was the night I todld my parents about the girl I was dating, Lexi, which was a huge step, because of this cultural phenomenon called "The Great Wall." I won't get into any of the specific details, but it needed a lot of my attention, and I figured, "hey, this is more worthwhile than having bragging rights for doing 100 days of code in a row." And from a goal-oriented standpoint, it's important to emphasize consistency over perfection anyway.. bottomline: we carry on in this challenge.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (deploymentDemo)
