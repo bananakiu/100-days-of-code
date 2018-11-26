@@ -1002,7 +1002,9 @@
 2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (deploymentDemo)
 
 =========================================
+
 **skipped November 24, 2018 - Saturday**
+
 =========================================
 
 ### Day 83: November 25, 2018 - Sunday
@@ -1027,4 +1029,4 @@
 
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
-2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (deploymentDemo)
+2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (^YelpCamp)
