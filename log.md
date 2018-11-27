@@ -1013,7 +1013,7 @@
 
 **Today's Progress**: It finally happend... I skipped a day (more on this on the log). Learned about the pipeline for deploying apps via Heroku and watched lectures on how exactly it was done. I watched these during my flight to Manila. I finished my hour of code by trying to apply it to YelpCamp.
 
-**Thoughts**: Wow, I can't believe I missed a day. But hey, sometimes, there are just some more important things in life that pop up that needs our attention. I was in Manila this weekend and the night I missed my hour of code was the night I todld my parents about this great girl I've been dating, Lexi, which was a huge step and a challenge, because of this cultural phenomenon called "The Great Wall." I won't get into any of the specific details, but it needed a lot of my attention, and I figured, "hey, this is more worthwhile than having bragging rights for doing 100 days of code in a row." And from a goal-oriented standpoint, it's important to emphasize consistency over perfection anyway.. bottomline: we carry on in this challenge.
+**Thoughts**: Wow, I can't believe I missed a day. But hey, sometimes, there are just some more important things in life that pop up that needs our attention. I was in Manila this weekend and the night I missed my hour of code was the night I told my parents about this great girl I've been dating, Lexi, which was a huge step and a challenge, because of this cultural phenomenon called "The Great Wall." I won't get into any of the specific details, but it needed a lot of my attention, and I figured, "hey, this is more worthwhile than having bragging rights for doing 100 days of code in a row." And from a goal-oriented standpoint, it's important to emphasize consistency over perfection anyway.. bottomline: we carry on in this challenge.
 
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
@@ -1021,11 +1021,23 @@
 
 ### Day 84: November 26, 2018 - Monday
 
-**Time Spent**: 1 hrs 00 mins
+**Time Spent**: 1 hrs 05 mins
 
 **Today's Progress**: Learned about mLab, which is a website which enables you to use hosted MongoDB databases. I was able to deploy my website, so check it out! 
 
 **Thoughts**: Did 30 mins in the morning and 30 mins at night, because I overslept the previous night (sleeping at 5am). Harder to focus now more than ever, as I have a lot of things going on at life (learning from a course at work, preparing for a hosting gig at a company event, and family/lovelife matters). But today was a nice satisfying win, being able to prove that I'm still going to finish this 100 days of code challenge, regardless of what's on my plate.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (YelpCamp)
+
+### Day 85: November 27, 2018 - Tuesday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Checkout my deployed website: https://thawing-spire-79329.herokuapp.com/campgrounds! Finished off the culmination project by separating the testing and deployment databases. Now, I'm working on intermediate Javascript -- starting with the "this" keyword.
+
+**Thoughts**: Today was a relatively easy and insightful day. Made so much slower progress than expected, but I'm happy with what I've learned. And I'm excited to finish the course already to be honest.
 
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
