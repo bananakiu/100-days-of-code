@@ -1042,3 +1042,16 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://ide.c9.io/bananakiu/webdeveloperbootcamp (YelpCamp)
+
+### Day 86: November 28, 2018 - Wednesday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Learned more intermediate JavaScript material!
+
+**Thoughts**: Wow, I'm really almost done with the course! Getting pretty challenging to finish my hour of code.. been waking up late and been having stuff to do in the mornings, so I've been forced to do my hour of code at night. On the bright side, 2 more weeks left of this challenge, and only 1 day missed!
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/29KQx8
+
