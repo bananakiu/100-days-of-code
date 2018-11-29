@@ -1055,3 +1055,14 @@
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/29KQx8
 
+### Day 87: November 29, 2018 - Thursday
+
+**Time Spent**: 1 hrs 05 mins
+
+**Today's Progress**: Learned more intermediate JavaScript material, which covered Object-oriented Programming (OOP). Did a simple exercise to solidify concepts learned today.
+
+**Thoughts**: OOP is so interesting! With the concepts on "this", "new", and "prototype", I'm really getting a much deeper understanding of how a lot of programming languages access methods, objects, attributes, etc. and just generally feel more enlightened. Pretty good stuff today! Just Closures + Bootstrap 4, and I'll be officially done with the course.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/anl3K3
