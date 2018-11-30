@@ -1066,3 +1066,15 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/anl3K3
+
+### Day 88: November 30, 2018 - Friday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Finished the final module on JavaScript concepts with a lesson on Closures. Also, to do my final work on the course, I went to the new Bootstrap 4 section that was added in the middle of me taking up this course.
+
+**Thoughts**: A few more days til I finish this course! Damn, pretty excited!
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/5epjkx
