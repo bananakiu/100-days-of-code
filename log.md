@@ -1078,3 +1078,15 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/5epjkx
+
+### Day 89: December 1, 2018 - Saturday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**:  Switched to VSCode for my code editor! Learned about how to import the Bootstrap 4 package, how to use cards, borders, headers, blockquotes, and spacing utilities.
+
+**Thoughts**: Since I'm hosting an event of 150 people later in a hotel ballroom (company's Christmas party), I did most of my coding past 12mn before sleeping, which made me sleep really late. Hopefully, I can recover enough energy to do a great job later, but hey, what's done is done. These are the days I'd typically skip had I decided to be more linient from the start. During my next challenges, I'd happily skip on days like this. Wish me luck guys! In terms of coding, I had a great time! VSCode seems really handy and Bootstrap 4 looks a lot of fun!
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/2Bvvgy
