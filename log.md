@@ -1083,10 +1083,22 @@
 
 **Time Spent**: 1 hrs 00 mins
 
-**Today's Progress**:  Switched to VSCode for my code editor! Learned about how to import the Bootstrap 4 package, how to use cards, borders, headers, blockquotes, and spacing utilities.
+**Today's Progress**: Switched to VSCode for my code editor! Learned about how to import the Bootstrap 4 package, how to use cards, borders, headers, blockquotes, and spacing utilities.
 
 **Thoughts**: Since I'm hosting an event of 150 people later in a hotel ballroom (company's Christmas party), I did most of my coding past 12mn before sleeping, which made me sleep really late. Hopefully, I can recover enough energy to do a great job later, but hey, what's done is done. These are the days I'd typically skip had I decided to be more linient from the start. During my next challenges, I'd happily skip on days like this. Wish me luck guys! In terms of coding, I had a great time! VSCode seems really handy and Bootstrap 4 looks a lot of fun!
 
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/2Bvvgy
+
+### Day 90: December 2, 2018 - Sunday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Learned more about spacing utilities for Bootstrap 4. Also learned about how to make classes involving spacing utilities more responsive as well.
+
+**Thoughts**: Pretty tiring.. I'm burning out, but I guess it's good the challenge is ending very soon. And as a side note, I think part of the being tired/ burning-out is coming from personal problems. Hard to do challenges like these when there are challenges in real life to address as well.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/G6wLMz
