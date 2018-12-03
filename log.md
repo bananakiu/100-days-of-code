@@ -1102,3 +1102,15 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/G6wLMz
+
+### Day 91: December 3, 2018 - Monday
+
+**Time Spent**: 1 hrs 05 mins
+
+**Today's Progress**: Learned about changes with navbars and display utilities for Bootstrap 4. Tested and played around with new concepts, especially with those utilities.
+
+**Thoughts**: Hope I absorb all of these things well enough to be able to work on my final project after I finish the course -- which will likely be a Google Tasks web app which will talk to the Google Tasks API (too add new features and make a better one compared to the current outdated web version with the following URL: https://mail.google.com/tasks/canvas.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/aJ8JQ6
