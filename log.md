@@ -1125,4 +1125,4 @@
 
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
-2. My code for the day: https://codeshare.io/aJ8JQ6
+2. My code for the day: 
