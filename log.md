@@ -1114,3 +1114,15 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/aJ8JQ6
+
+### Day 92: December 4, 2018 - Tuesday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Worked on display utilities again for Bootstrap 4. Started learning about flexbox as well.
+
+**Thoughts**: 8 more days til I finish! By far the most unproductive coding day I have. Really getting tired. I'm excited to get this challenge over with and just take a break.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/aJ8JQ6
