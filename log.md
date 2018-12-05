@@ -1125,4 +1125,16 @@
 
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
-2. My code for the day: 
+2. My code for the day: https://codeshare.io/arxEr7
+
+### Day 93: December 5, 2018 - Wednesday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Finished learning about some flexbox utilities by making responsive objects. Learned about how navigation bars differ in Bootstrap 4 as well.
+
+**Thoughts**: Felt more productive today, even if I technically had even less watch time for the Udemy course. Had fun, but I'm slightly worried I may not finish the course at all within the 100 day challenge.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/GAOz0N
