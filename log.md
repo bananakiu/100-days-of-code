@@ -1138,3 +1138,15 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/GAOz0N
+
+### Day 94: December 6, 2018 - Thursday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Learned more about the new grid system that works with flexbox. Am also doing this mini-project (a site about patterns) to learn about Bootstrap 4 cards.
+
+**Thoughts**: Almost there! Almost friggin there! Had fun today. I guess it goes back to the idea of motivation being created by the novelty of creating something new. I think I burnt out the past few days, because of all the lectures that had minimal code-alongs.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/G8e6e4
