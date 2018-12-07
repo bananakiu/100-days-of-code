@@ -1150,3 +1150,15 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/G8e6e4
+
+### Day 95: December 7, 2018 - Friday (HAPPY BIRTHDAY, MOM!)
+
+**Time Spent**: 1 hrs 10 mins
+
+**Today's Progress**: Finished the Bootstrap 4 cards mini-project. Also learned about how to actually use flexbox utilities with the grid system. I got to play around with it and got to learn about use-cases for flexbox utilities via Colt Steele's Udemy course.
+
+**Thoughts**: I'm about 2 days away from finishing this course! I'm pretty excited!
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/5epvQb
