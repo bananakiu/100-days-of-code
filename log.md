@@ -1162,3 +1162,16 @@
 **Link(s) to work/Other Relevant Links**
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/5epvQb
+
+### Day 96: December 8, 2018 - Saturday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: For the approximately last 2 days of this course, I'm doing this Candy Museum project/code-along to finish my Bootstrap 4 studies. It'll be responsive.
+
+**Thoughts**: Had fun today applying all the stuff I learned in the lecture (hiding/showing elements with display utilities, using new rem CSS units, making a navbar, etc.). I guess I'll finish the course by tomorrow! It's a pretty surreal feeling to have actually made it this far.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/5ZnKWQ
+
