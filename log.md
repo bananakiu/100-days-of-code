@@ -1165,7 +1165,7 @@
 
 ### Day 96: December 8, 2018 - Saturday
 
-**Time Spent**: 1 hrs 00 mins
+**Time Spent**: 1 hrs 05 mins
 
 **Today's Progress**: For the approximately last 2 days of this course, I'm doing this Candy Museum project/code-along to finish my Bootstrap 4 studies. It'll be responsive.
 
