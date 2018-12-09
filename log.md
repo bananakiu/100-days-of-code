@@ -1175,3 +1175,15 @@
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/5ZnKWQ
 
+### Day 97: December 9, 2018 - Sunday
+
+**Time Spent**: 1 hrs 30 mins
+
+**Today's Progress**: Finished the Bootstrap 4 module/code-along, which means I officially finished the Web Developer Bootcamp course! Spending the last 3 days with my own project!
+
+**Thoughts**: What an amazing course. That was the best money spent on a course I've had so far. Kinda had a somewhat hard time today, because of the nested structures and css selectors, but I managed to get through it and understand it thoroughly. For the last 3 days, I am planning to do something similar to YelpCamp & Google Keep -- I want to make a quote wall website for myself -- maybe I can add authentication as well for others to make their own quote walls.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://codeshare.io/2BvkWx
+
