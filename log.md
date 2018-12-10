@@ -1187,3 +1187,15 @@
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://codeshare.io/2BvkWx
 
+### Day 98: December 10, 2018 - Monday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Started with my quick personal project: an inspirational quote wall builder -- perfect for my own usage. Did a lot of setup with Cloud9, MLab, and my npm packages.
+
+**Thoughts**: Tried to start fast by making ALL the folders necessary for a YelpCamp-caliber project, but I quickly realize that that is too overwhelming, and that a project must be build iteratively, starting very simple. So I delete all those folders, code for authentication, etc. and start from a fresh file. Hopefully I finish by day 100! I have my doubts, but I will do my best.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://ide.c9.io/bananakiu/quote-wall#openfile-README.md
+
