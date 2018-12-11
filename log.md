@@ -1201,7 +1201,7 @@
 
 ### Day 99: December 11, 2018 - Tuesday
 
-**Time Spent**: 1 hrs 00 mins
+**Time Spent**: 2 hrs 00 mins
 
 **Today's Progress**: Decided on a name for my final project! Made a landing page with a slideshow of inspirational/adventure images on it. Still working on the index routes. Might not add authentication anymore in the interest of time (maybe after my 100 days of code challenge).
 
