@@ -1199,3 +1199,15 @@
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://ide.c9.io/bananakiu/quote-wall#openfile-README.md
 
+### Day 99: December 11, 2018 - Tuesday
+
+**Time Spent**: 1 hrs 00 mins
+
+**Today's Progress**: Decided on a name for my final project! Made a landing page with a slideshow of inspirational/adventure images on it. Still working on the index routes. Might not add authentication anymore in the interest of time (maybe after my 100 days of code challenge).
+
+**Thoughts**: It's so much more difficult working on your own, but I can see the skills I picked up from the Udemy course really helping. I edited some templates I've made while on the course and made use of useful resources like Unsplash, Google Fonts, etc. while spending an unreasonable amount of time on the landing page. Going to finish the index page tomorrow, but I likely will not finish the project by then. I will continue beyond the 100 days, but will not record it the same way anymore. Will likely have some sort of report after the 100 days (will be out maybe next week OR with the blog before the end of the year).
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://ide.c9.io/bananakiu/quote-wall
+
