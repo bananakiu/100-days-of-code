@@ -1211,3 +1211,16 @@
 1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
 2. My code for the day: https://ide.c9.io/bananakiu/quote-wall
 
+### Day 100: December 12, 2018 - Wednesday
+
+**Time Spent**: 1 hrs 30 mins
+
+**Today's Progress**: Well, that does it! Just finished the #100DaysOfCode challenge in 101 days! Didn't finish my mini-project, but I will along with my blog on this experience. Today, I fixed the navbar for my mini-project, and decided to use cards for my quotes, but I'm still a long way from finishing.
+
+**Thoughts**: Starting with the basics by making a static page with no database yet. I'll add RESTful routing and authentication somewhere down the road, but for now, I'm starting simple and making sure I have the essentials down. Starting with cards first and I'm currently having a hard time with the margins.
+
+Anyway, I just like to say this has been an amazing experience. I've learned a lot since starting this challenge 101 days ago back in September 3, 2018. And because of that, I will be continuing 100 Days of X challenges for as long as I can. I am planing to do 100 Days of Graphic Design, of Music, of Business/Drop-shipping, etc. in the future. Still wondering which platform is best to do documentation, but hey, maybe I'll build a personal website for exactly that. Who knows? That might be my first big project after this mini one.
+
+**Link(s) to work/Other Relevant Links**
+1. Colt Steele's Web Developer Bootcamp: https://www.udemy.com/share/100026A0ofcVxaQ3Q=/
+2. My code for the day: https://ide.c9.io/bananakiu/quote-wall
