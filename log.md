@@ -20,6 +20,9 @@
 
 --->
 
+### Link to Twitter Thread (With Pictures):
+**https://twitter.com/challenges_lkiu/status/1036523741893681153**
+
 ### Day 1: September 3, 2018 - Monday
 **Time Spent**: 2 hrs 45 mins
 
